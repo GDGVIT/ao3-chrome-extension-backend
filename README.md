@@ -78,22 +78,48 @@ Start the development server:
 npm run test
 ```
 
-## Contributors
+# Contributors
+
 <table>
-	<tr align="center">
-		<td>
-		Varshith Kumar
+<tr align="center">
+	<td>
+	Varshith Kumar
+	<p align="center">
+		<img src="https://temp-dep.vercel.app/_next/image?url=%2Fteam%2Ftechnical%2Fvarshith.jpg&w=1920&q=75" width="150" height="150" alt="Varshith Kumar">
+	</p>
 		<p align="center">
-			<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Varshith Kumar">
+			<a href="https://github.com/var-code-5">
+				<img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub"/>
+			</a>
+			<a href="https://www.linkedin.com/in/varshith-kumar-reddy-meda-02a7b02b3/">
+				<img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+			</a>
 		</p>
-			<p align="center">
-				<a href = "https://github.com/GDGVIT">
-					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
-				</a>
-			</p>
-		</td>
-	</tr>
+		<p align="center">
+			Backend 
+		</p>
+	</td>
+	<td>
+	Dipit Madan
+	<p align="center">
+		<img src="https://temp-dep.vercel.app/_next/image?url=%2Fteam%2Ftechnical%2Fdipit.jpeg&w=1920&q=75" width="150" height="150" alt="Dipit Madan">
+	</p>
+		<p align="center">
+			<a href="https://github.com/Dipit12">
+				<img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub"/>
+			</a>
+			<a href="https://www.linkedin.com/in/dipit-madan">
+				<img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+			</a>
+		</p>
+		<p align="center"
+		<p align="center">
+			Machine Learning
+		</p>
+	</td>
+</tr>
 </table>
+
 
 <p align="center">
 	Made with ❤ by <a href="https://dscvit.com">GDSC-VIT</a>
