@@ -16,12 +16,12 @@
 
 ## Features
 
-- [ ]  Secure JWT-based authentication system with token validation
-- [ ]  User profile management with customizable usernames
-- [ ]  ML-powered fanfiction recommendations based on user preferences
-- [ ]  Cross-origin resource sharing (CORS) support for Chrome extension 
-- [ ]  RESTful API architecture with Express.js 
-- [ ]  Password hashing for enhanced security 
+- [X]  Secure JWT-based authentication system with token validation
+- [X]  User profile management with customizable usernames
+- [X]  ML-powered fanfiction recommendations based on user preferences
+- [X]  Cross-origin resource sharing (CORS) support for Chrome extension 
+- [X]  RESTful API architecture with Express.js 
+- [X]  Password hashing for enhanced security 
 <br>
 
 ## Dependencies
